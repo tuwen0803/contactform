@@ -1,5 +1,4 @@
-<?php
-//セッションを開始
+<?php//セッションを開始
 session_start();
 //セッションIDを更新して変更（セッションハイジャック対策）
 session_regenerate_id( TRUE );
