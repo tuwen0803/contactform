@@ -1,1 +1,2 @@
-予約フォームのHTML：　reservation.html
+CONTACT US　フォーム：contact/contact.php
+
